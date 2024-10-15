@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Buğra
-- 🌱 I’m currently learning Android Mobile Development
 - # Contact Me
 
 <a href="https://www.linkedin.com/in/buğra-toklu-ab948021b/" target="_blank" >
